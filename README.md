@@ -12,6 +12,5 @@ I was working on a project and I found out that there is no direct way to dismis
 
 
 
-## Inspiration :- Dribble .
 
 ## Contact priyanshu7791@gmail.com to get quote . 

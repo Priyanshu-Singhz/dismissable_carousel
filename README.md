@@ -8,7 +8,7 @@
 
 
 
-!(assets/recording.gif)
+![Like this](assets/recording.gif)
 
 
 

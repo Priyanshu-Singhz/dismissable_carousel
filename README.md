@@ -1,6 +1,6 @@
 # Dismissable Carousel
 
-##I was working on a project and I found out that there is no direct way to dismiss a card in carousel . So I figured out a way to do this with some basic animation .
+##I was working on a project and I found out that there is no direct way to dismiss a card in carousel . So I figured out a way to use PageView for this and did this with some basic animation .
 
 ## Sharing this so others can get benefitted . 
 
